@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 369.5 48.9" style="enable-background:new 0 0 369.5 48.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#BE1E2D;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{fill:#00A651;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st2{fill:#00A651;stroke:#000000;stroke-width:0.2433;stroke-miterlimit:10;}
+	.st3{font-family:'MyriadPro-Regular';}
+	.st4{font-size:6px;}
+	.st5{fill:none;}
+	.st6{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st7{font-size:12px;}
+	.st8{font-size:8px;}
+</style>
+<rect x="95" y="22.4" class="st0" width="5" height="9"/>
+<rect y="22.4" class="st1" width="95" height="9"/>
+<rect x="185.1" y="34.2" class="st0" width="5" height="9"/>
+<rect x="95.1" y="34.2" class="st2" width="90" height="9"/>
+<rect x="90.1" y="34.2" class="st0" width="5" height="9"/>
+<rect x="274.5" y="22.4" class="st0" width="5" height="9"/>
+<rect x="184.5" y="22.4" class="st2" width="90" height="9"/>
+<rect x="179.5" y="22.4" class="st0" width="5" height="9"/>
+<rect x="269.4" y="34.2" class="st0" width="5" height="9"/>
+<rect x="274.4" y="34.2" class="st1" width="95" height="9"/>
+<text transform="matrix(1 0 0 1 42.0836 21.8223)" class="st3 st4">95%</text>
+<text transform="matrix(1 0 0 1 93.6227 21.8223)" class="st3 st4">5%</text>
+<text transform="matrix(1 0 0 1 316.5055 48.9165)" class="st3 st4">95%</text>
+<text transform="matrix(1 0 0 1 268.0448 48.9165)" class="st3 st4">5%</text>
+<g>
+	<text transform="matrix(1 0 0 1 133.0607 48.9165)" class="st3 st4">90%</text>
+	<text transform="matrix(1 0 0 1 88.6383 48.9165)" class="st3 st4">5%</text>
+	<text transform="matrix(1 0 0 1 183.6383 48.9165)" class="st3 st4">5%</text>
+</g>
+<g>
+	<line class="st5" x1="0" y1="12.5" x2="369.5" y2="12.5"/>
+	<g>
+		<line class="st6" x1="0.5" y1="12.5" x2="369" y2="12.5"/>
+		<g>
+			<rect y="9.3" width="1" height="6.5"/>
+		</g>
+		<g>
+			<rect x="368.5" y="9.3" width="1" height="6.5"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 150.9992 8.5195)" class="st3 st7">Input interval</text>
+<text transform="matrix(1 0 0 1 41.6618 29.1958)" class="st3 st8">ROI</text>
+<text transform="matrix(1 0 0 1 134.1771 41.0551)" class="st3 st8">ROI</text>
+<text transform="matrix(1 0 0 1 223.5832 29.1958)" class="st3 st8">ROI</text>
+<text transform="matrix(1 0 0 1 316.0832 41.0551)" class="st3 st8">ROI</text>
+<g>
+	<text transform="matrix(1 0 0 1 222.4669 21.8225)" class="st3 st4">90%</text>
+	<text transform="matrix(1 0 0 1 178.0446 21.8225)" class="st3 st4">5%</text>
+	<text transform="matrix(1 0 0 1 273.0446 21.8225)" class="st3 st4">5%</text>
+</g>
+</svg>
